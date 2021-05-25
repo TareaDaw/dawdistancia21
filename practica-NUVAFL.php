@@ -40,5 +40,5 @@ function sumar($num1, $num2)
 */
 echo "Tu saludo es :".funcionSaludar("Nuria");
 echo "El resultado de la suma es :".sumar(1,2);
-
+echo "Esto es una prueba para la tarea última de DAW";
 ?>
